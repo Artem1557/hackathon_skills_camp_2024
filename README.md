@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=3000&pause=1000&color=015CCA&background=11167B00&multiline=true&width=450&height=60&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D1%8B+%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0+Cyber+AI+drone;%D0%B8+%D0%BC%D1%8B+%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8+Skills+Camp+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=25&duration=3000&pause=1000&color=015CCA&background=11167B00&multiline=true&width=450&height=60&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D1%8B+%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0+Cyber+AI+drone;%D0%B8+%D0%BC%D1%8B+%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8+Skills+Camp+2024)](https://git.io/typing-svg)
 
 Хотим представить решение поставленной задачи в компетенции "Искусвенный интелект в комплексных беспилотных системах".
 ## 📖 содержание
