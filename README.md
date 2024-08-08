@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋 Привет+,+мы+команда+Cyber+AI+drone+,+участвуем+в+Skills+Camp+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 Хотим представить решение поставленной задачи в компетенции "Искусвенный интелект в комплексных беспилотных системах".
 ## 📖 содержание
