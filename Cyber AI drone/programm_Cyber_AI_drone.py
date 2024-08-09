@@ -110,7 +110,7 @@ while True:
         cX = int(Mline["m10"]/Mline["m00"])
         cY = int(Mline["m01"]/Mline["m00"])
         cv2.putText(img, 'line', (cX,cY), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (170, 200,75), 1)
-        cv.rectangle(img,(cX-100,cY-5),(cX+100,cY+5),(0,0,0),3)
+        cv.rectangle(img,(cX-75,cY-5),(cX+75,cY+5),(0,0,0),3)
         set_effect(r=255, g=192, b=203)
         rospy.sleep(0.35)
 
