@@ -18,7 +18,7 @@
 
 ![Описание изображения](images/Kira.jpeg)
 
-Хотим представить решение поставленной задачи в компетенции "Искусвенный интелект в комплексных беспилотных системах"
+Хотим представить решение поставленной задачи в компетенции **`"Искусвенный интелект в комплексных беспилотных системах"`**
 ## Цель и актуальность работы
 Целью нашей роботы стала разработка программного обеспечения для обнаружения Ровера, нарушевшего правила дорожного движения. Разработка программного обеспечения для обнаружения сигнала светофора и стоп-линии.
 
@@ -56,7 +56,7 @@
 * **`обучение`** [нейронной сети](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/Model_Cyber_AI_drone.pt)
 * **`тестирование`** [модели](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/Test_Cyber_AI_drone.py)
 * **`результат тестирования:`** [зеленый свет](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/Result_Cyber_AI_drone.jpg), [красный свет](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/Result_Cyber_AI_drone_1.jpg)
-* [программа](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/programm_Cyber_AI_drone.py) **`распознования нарушителя`**
-* [видео](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/video_Cyber_AI_drone.mp4) **`результат проделанной работы`**
+* **`распознования нарушителя`** [программа](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/programm_Cyber_AI_drone.py)
+* **`результат проделанной работы`**[видео](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/video_Cyber_AI_drone.mp4)
 
 
