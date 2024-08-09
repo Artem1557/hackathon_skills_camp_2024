@@ -3,6 +3,7 @@ import rospy
 from clover import srv
 from std_srvs.srv import Trigger
 import cv2
+import cv2 as cv
 from sensor_msgs.msg import Image
 from cv_bridge import CvBridge
 
@@ -84,6 +85,7 @@ while True:
         cX = int(Mrov["m10"]/Mrov["m00"])
         cY = int(Mrov["m01"]/Mrov["m00"])
         cv2.putText(img, 'rover', (cX,cY), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 160,0), 1)
+        cv.rectangle(img,(cX-30,cY-30),(cX+30,cY+30),(0,160,0),3)
         set_effect(r=220, g=20, b=60)
         rospy.sleep(0.5)
 
@@ -91,6 +93,7 @@ while True:
         cX = int(Mred1["m10"]/Mred1["m00"])
         cY = int(Mred1["m01"]/Mred1["m00"])
         cv2.putText(img, 'rover', (cX,cY), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0,0, 255), 1)
+        cv.rectangle(img,(cX-10,cY-10),(cX+10,cY+30), (0,0,250),3)
         set_effect(r=255, g=165, b=0)
         rospy.sleep(0.35)
 
@@ -99,6 +102,7 @@ while True:
         cX = int(Mgreen["m10"]/Mgreen["m00"])
         cY = int(Mgreen["m01"]/Mgreen["m00"])
         cv2.putText(img, 'green', (cX,cY), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0,255,0), 1)
+        cv.rectangle(img,(cX-10,cY-30),(cX+10,cY+15),(0,255,0),3)
         set_effect(r=255, g=165, b=0)
         rospy.sleep(0.35)
 
@@ -106,6 +110,7 @@ while True:
         cX = int(Mline["m10"]/Mline["m00"])
         cY = int(Mline["m01"]/Mline["m00"])
         cv2.putText(img, 'line', (cX,cY), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (170, 200,75), 1)
+        cv.rectangle(img,(cX-100,cY-5),(cX+100,cY+5),(0,0,0),3)
         set_effect(r=255, g=192, b=203)
         rospy.sleep(0.35)
 
