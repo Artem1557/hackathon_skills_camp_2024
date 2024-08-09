@@ -55,7 +55,7 @@
 * создание [Dataset](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/Data_Cyber_AI_drone.zip)
 * обучение [нейронной сети](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/Model_Cyber_AI_drone.pt)
 * тестирование [модели](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/Test_Cyber_AI_drone.py)
-* результат тестирования: [зеленый свет]([hhttps://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/Result_Cyber_AI_drone.jpg](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/programm_Cyber_AI_drone.py)), [красный свет](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/Result_Cyber_AI_drone_1.jpg)
+* результат тестирования: [зеленый свет](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/Result_Cyber_AI_drone.jpg), [красный свет](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/Result_Cyber_AI_drone_1.jpg)
 * [программа](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/programm_Cyber_AI_drone.py) распознования нарушителя
 * [видео](https://github.com/Artem1557/hackathon_skills_camp_2024/blob/main/Cyber%20AI%20drone/video_Cyber_AI_drone.mp4) результат проделанной работы
 
